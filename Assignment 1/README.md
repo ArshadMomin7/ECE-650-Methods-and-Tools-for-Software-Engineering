@@ -25,4 +25,4 @@ There is an edge between two vertices if:
 (a) at least one of them is an intersection, 
 (b) both lie on the same street, and, 
 (c) one is reachable from the other without traversing another vertex.
-An example from above is the edge <1,3>, which connects the end-point of a line segment to an intersection. Another example is the edge <3,6>, which connects two intersections.
+An example from above is the edge <1,3> which connects the end-point of a line segment to an intersection. Another example is the edge <3,6> which connects two intersections.
