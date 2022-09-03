@@ -2,7 +2,7 @@
 
 Python & C++
 
-The project was completed as part of the ECE650 Graduate Coursework at the University of Waterloo.
+The project was completed as part of the ECE 650 Graduate Coursework at the University of Waterloo.
 
 The objective of the project is to assist the local police force in installing surveillance cameras at junctions of roads. Here, the term "Vertex Cover problem" refers to a specific category of optimization problems. The goal is for the police to be able to monitor as effectively as possible while minimizing the number of cameras they must set up.
 To summarise the project, it is divided into four assignments.
