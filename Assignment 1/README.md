@@ -1,4 +1,4 @@
-### ECE650 : Assignment 1
+# ECE650 : Assignment 1
 
 Adding a street name with its Co-ordinates
 For example,
