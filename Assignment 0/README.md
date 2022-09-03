@@ -1,22 +1,5 @@
 # ECE650 : Assignment 0
 
-Replace FIRST_NAME, LAST_NAME, WATIAM, and STUDENT_ID, EMAIL in
-`user.yml` by your first and last name, WatIAM id, student number, and
-email, respectively. Use plain ASCII characters as much as possible.
-
-Do not change the format of the file. We will parse it
-automatically. Only enter the information requested.
-
-Commit your changes and submit on GitLab.
-
-You can pull from this upstream code repo by adding it as a remote
-repository to your GitLab Repository. If you are using the git command
-line interface, you may wish to use the follow command:
-
-```shell
-git remote add <REPO-NAME> "URL-TO-UPSTREAM-ON-GITLAB"
-```
-
 Where it is recommended to name <REPO-NAME> as 'upstream'
 for consistency. The URL can be obtained from GitLab.
 Then the upstream code for each assignment can be obtained through:
@@ -70,7 +53,7 @@ in case you need to refer to previous, older commits.
 git commit
 ```
 
-Once you have a commit ready, it can be pushed onto the GitLab
+Once there is commit ready, it can be pushed onto the GitLab
 Repository through the following
 
 ```shell
@@ -85,8 +68,6 @@ Note that you can see all of the modified files with:
 ```shell
 git status
 ```
-
-
 
 If you are using git at the command line, it may be useful to configure
 git on the command line through the following commands.
