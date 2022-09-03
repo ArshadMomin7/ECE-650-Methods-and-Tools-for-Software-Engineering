@@ -69,14 +69,4 @@ Note that you can see all of the modified files with:
 git status
 ```
 
-If you are using git at the command line, it may be useful to configure
-git on the command line through the following commands.
-
-```shell
-git config --global user.name "FIRSTNAME LASTNAME"
-git config --global user.email "USERNAME@uwaterloo.ca"
-git config --global push.default simple
-git config --global color.ui "true" 
-```
-
 If you wish to practice using git, you may try the ["Learn Git Branching"](https://learngitbranching.js.org/) on the [https://try.github.io/](https://try.github.io/) webpage.
