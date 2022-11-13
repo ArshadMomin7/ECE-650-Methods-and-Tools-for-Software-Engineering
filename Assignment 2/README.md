@@ -3,10 +3,10 @@
 
 With the data entered with respect to the coordinates of the Street, this assignment will be able to focus majorly on finding the shortest path from Source Vertex to destination Vertex.
 For example:
-`V 15`
-`E {<2,6>,<2,8>,<2,5>,<6,5>,<5,8>,<6,10>,<10,8>}`
-`s 2 10`
-`2-8-10`
+```V 15```
+```E {<2,6>,<2,8>,<2,5>,<6,5>,<5,8>,<6,10>,<10,8>}```
+```s 2 10```
+```2-8-10```
 
 As the example above indicates, one kind of input is the specification of a set of vertices V, and
 set of edges E of the undirected graph. The specification of a set of vertices starts with 'V', followed by a space, followed by an integer greater than one, all in one single line. If the integer that follows the V is i, then we assume that the vertices are identified by 1,.......,i.
